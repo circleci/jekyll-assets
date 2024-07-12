@@ -4,6 +4,6 @@
 
 module Jekyll
   module Assets
-    VERSION="2.4.0.7"
+    VERSION="2.4.0.8"
   end
 end
